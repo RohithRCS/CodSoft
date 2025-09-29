@@ -4,7 +4,7 @@
 This repository contains all the projects and tasks I completed during my internship with **CodSoft** in the domain of Python Programming. The internship helped me strengthen my Python skills and gain practical experience in building real-world applications with GUI development.  
 
 ## Screenshots  
-Refer to the [screenshots](./screenshots) folder for output examples of each project.  
+Refer to the [Screenshots](./Screenshots) folder for output examples of each project.  
 
 ## Internship Duration  
 **July 2024 – August 2024**  
